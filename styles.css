@@ -98,3 +98,7 @@ img {
     font-size: 6rem;
     color: orangered;
 }
+
+hr {
+    margin: 1.5rem 0
+}
